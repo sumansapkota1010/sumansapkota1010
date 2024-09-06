@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://sumansapkota.io)
+
 <h1 align="center">Hi 👋, I'm Suman Sapkota</h1>
 <h3 align="center">I am a passionate MERN stack developer from Nepal</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
